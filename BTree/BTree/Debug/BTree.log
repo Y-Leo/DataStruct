@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/7/27 14:11:31。
+项目“\\vmware-host\shared folders\文稿\visual studio 2013\Projects\BTree\BTree\BTree.vcxproj”在节点 2 上(Build 个目标)。
+ClCompile:
+  C:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt BTree.c main.c
+  main.c
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(7): error C2065: “Bin”: 未声明的标识符
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(7): warning C4047: “初始化”:“BTNode *”与“int”的间接级别不同
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(10): warning C4047: “函数”:“int”与“char [2]”的间接级别不同
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(10): warning C4024: “putchar”: 形参和实参 1 的类型不同
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(12): warning C4047: “函数”:“int”与“char [2]”的间接级别不同
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(12): warning C4024: “putchar”: 形参和实参 1 的类型不同
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(14): warning C4047: “函数”:“int”与“char [2]”的间接级别不同
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\main.c(14): warning C4024: “putchar”: 形参和实参 1 的类型不同
+  BTree.c
+  正在生成代码...
+\\vmware-host\shared folders\文稿\visual studio 2013\projects\btree\btree\btree.c(6): warning C4716: “BinaryTreeCreate”: 必须返回一个值
+已完成生成项目“\\vmware-host\shared folders\文稿\visual studio 2013\Projects\BTree\BTree\BTree.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.53
